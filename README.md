@@ -7,8 +7,6 @@ I'm Unity Game Developer.
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=cucupops)](https://solved.ac/cucupops)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=cucupops)](https://solved.ac/cucupops)
-[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cucupops)](https://solved.ac/cucupops)
 
 ## 🤔 Github Stats
